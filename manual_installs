@@ -32,3 +32,8 @@ sudo cp -R $HOME/Downloads/nerdfonts/ /usr/share/fonts/
 
 CascadiaCode
 caskaydia nerd font
+
+
+autotiling in /usr/bin, gok ik
+exec_always autotiling in sway
+
