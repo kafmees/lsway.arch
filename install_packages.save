@@ -1,0 +1,59 @@
+kitty
+rclone
+rclone-browser (fedora)
+sway
+swaylock
+swaync
+waybar
+wofi
+starship
+cascadia-fonts
+neofetch
+swww
+grim
+slurp
+papirus-icon-theme
+gnome-themes-extra
+qt5
+thunar
+swaylock-effects 
+wlogout
+    wlogout 
+    xdg-desktop-portal-wlr
+    swappy 
+    catppuccin-gtk-theme-mocha
+    capitaine-cursors
+    grim 
+    papirus-icon-theme    
+    gnome-themes-extra
+    slurp 
+    thunar 
+    btop
+    firefox
+    vlc
+    leafpad 
+    brave
+    microsoft-edge-stable-bin   
+    icaclient 
+    pamixer 
+    pavucontrol 
+    brightnessctl 
+    bluez 
+    bluez-utils 
+    blueman 
+    network-manager-applet 
+    autotiling
+    gvfs 
+    thunar-archive-plugin 
+    file-roller
+    starship 
+    papirus-icon-theme 
+    ttf-jetbrains-mono-nerd 
+    ttf-firacode-nerd 
+    noto-fonts-emoji 
+    lxappearance 
+    xfce4-settings
+    ca-certificates
+    lutris
+    nwg-look-bin
+    sddm
