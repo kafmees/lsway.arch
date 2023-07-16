@@ -19,17 +19,11 @@ thunar
 swaylock-effects 
 wlogout
 libreoffice
-    wlogout 
-    xdg-desktop-portal-wlr
-    swappy 
-    catppuccin-gtk-theme-mocha
-    capitaine-cursors
-    grim 
-    papirus-icon-theme    
-    gnome-themes-extra
-    slurp 
-    thunar 
-    btop
+xdg-desktop-portal-wlr
+swappy 
+catppuccin-gtk-theme-mocha
+capitaine-cursors
+btop
     firefox
     vlc
     leafpad 
